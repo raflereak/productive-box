@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/raflereak/0e6768209b283c1ff99e12c1b94bd1a1
+          GIST_ID: 0e6768209b283c1ff99e12c1b94bd1a1
           TIMEZONE: Asia/Seoul
